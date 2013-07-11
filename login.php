@@ -11,7 +11,7 @@ include("config.php");
 
 <body>
 <form action="hasil.php" method="post">
-<table width="200" border="1">
+<table width="300" border="1">
   <tr>
     <td>username</td>
     <td>:</td>
