@@ -14,7 +14,7 @@ include("config.php");
 <<<<<<< HEAD
 <table width="300" border="1">
 =======
-<table width=150" border="1">
+<table width=350" border="1">
 >>>>>>> 5eea964ec859c4d012bf62950d3905f2f50ba8fc
   <tr>
     <td>username</td>
