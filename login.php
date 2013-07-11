@@ -11,7 +11,11 @@ include("config.php");
 
 <body>
 <form action="hasil.php" method="post">
+<<<<<<< HEAD
 <table width="300" border="1">
+=======
+<table width=150" border="1">
+>>>>>>> 5eea964ec859c4d012bf62950d3905f2f50ba8fc
   <tr>
     <td>username</td>
     <td>:</td>
